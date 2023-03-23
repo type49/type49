@@ -16,8 +16,11 @@
 
 ### Навыки
 Языки программирования: Python, HTML, CSS
+
 Библиотеки и фреймворки: PyQT, Django, aiogram
+
 Инструменты: Git, PyCharm, SQL
+
 Дизайн: Photoshop 
 
 ------------
@@ -29,6 +32,7 @@
 ------------
 ### Примеры проектов
 - [Программа](https://github.com/type49/spiritape "Программа") для работы с заметками с расширенным функционалом. 
+- 
 - [Библиотека](https://github.com/type49/youtube-search-with-api "Библиотека") для расширенного поиска YouTube с обходом его ограничений в количестве выдаваемых данных.
 
 ------------
@@ -36,5 +40,7 @@
 
 ### Контакты
 Email: underalmaty@gmail.com
+
 GitHub: https://github.com/type49
+
 Telegram: @undermaty
