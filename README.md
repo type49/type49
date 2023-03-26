@@ -17,7 +17,7 @@
 ### Skills
 Языки программирования: Python, HTML, CSS
 
-Библиотеки и фреймворки: PyQT, Django, aiogram
+Библиотеки и фреймворки: PyQT, Django, aiogram, sqlite3
 
 Инструменты: Git, PyCharm, SQL
 
@@ -40,8 +40,7 @@
 ### Контакты
 Email: underalmaty@gmail.com
 
-GitHub: https://github.com/type49
+Telegram: - [@type49tg](t.me/type49tg "@type49tg")
 
-Telegram: @undermaty
 
 
