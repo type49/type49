@@ -40,7 +40,7 @@
 ### Контакты
 Email: underalmaty@gmail.com
 
-Telegram: - [@type49tg](t.me/type49tg "@type49tg")
+Telegram: [@type49tg](https://t.me/type49tg)
 
 
 
