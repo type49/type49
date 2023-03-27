@@ -1,4 +1,3 @@
-![type49inc](https://github.com/type49/type49/blob/main/49inclogowidth.png?raw=true)
 
 ###  Features
 - Разработка программ на Python для автоматизации бизнес-процессов
@@ -44,5 +43,6 @@ Email: underalmaty@gmail.com
 
 Telegram: [@type49tg](https://t.me/type49tg)
 
+![type49inc](https://github.com/type49/type49/blob/main/49inclogowidthright.png?raw=true)
 
 
