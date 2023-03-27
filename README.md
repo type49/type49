@@ -1,3 +1,5 @@
+![type49inc](https://github.com/type49/type49/blob/main/49inclogowidth.png?raw=true)
+
 ###  Features
 - Разработка программ на Python для автоматизации бизнес-процессов
 - Создание пользовательских интерфейсов с использованием PyQT
